@@ -1,0 +1,4 @@
+- Designed a Wikipedia style app to mimic the basic functionality of the popular online encyclopedia
+- Developed and implemented the application utilizing Python, SQLite, Javascript, Django, and Bootstrap
+- Constructed a method for users to create and edit entries using the markup language “Markdown”
+- Additional features include search, page randomization, and access to pages nested within each other
